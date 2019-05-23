@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array/>
+	<key>PayloadDisplayName</key>
+	<string>deve</string>
+	<key>PayloadIdentifier</key>
+	<string>dongzhedeMacBook-Pro.D4B786D4-1E70-4323-B2FE-7F94821D3E23</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4A9910E9-943D-4F1B-B8B1-98BC69752360</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
